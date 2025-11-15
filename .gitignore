@@ -1,0 +1,70 @@
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio Code
+.vscode/
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/settings.json
+
+## Visual Studio
+.vs/
+
+## .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NuGet
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary, save nuget packages directly
+#**/packages/*.nupkg
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## OS-generated files
+ehthumbs.db
+Thumbs.db
+.DS_Store
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## ASP.NET
+appsettings.Development.json
+appsettings.Local.json
+
+## Logs
+*.log
+
+## Cache
+*.pid
+*.pid.lock
+
+## Others
+*.dbmdl
+*.dbproj.schemaview
