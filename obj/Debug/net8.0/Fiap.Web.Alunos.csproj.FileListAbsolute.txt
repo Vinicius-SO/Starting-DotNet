@@ -28,3 +28,4 @@ C:\Users\vhiso\OneDrive\Área de Trabalho\faculdade\dotnet\Fiap.Web.Alunos\obj\D
 C:\Users\vhiso\OneDrive\Área de Trabalho\faculdade\dotnet\Fiap.Web.Alunos\obj\Debug\net8.0\Fiap.Web.Alunos.pdb
 C:\Users\vhiso\OneDrive\Área de Trabalho\faculdade\dotnet\Fiap.Web.Alunos\obj\Debug\net8.0\Fiap.Web.Alunos.genruntimeconfig.cache
 C:\Users\vhiso\OneDrive\Área de Trabalho\faculdade\dotnet\Fiap.Web.Alunos\obj\Debug\net8.0\ref\Fiap.Web.Alunos.dll
+C:\Users\vhiso\OneDrive\Área de Trabalho\faculdade\dotnet\Fiap.Web.Alunos\obj\Debug\net8.0\Fiap.Web.Alunos.sourcelink.json

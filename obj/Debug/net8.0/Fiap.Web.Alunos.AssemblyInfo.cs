@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fiap.Web.Alunos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a2223b3c90ed93672d03b7cfcb81ff5ea5cf56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fiap.Web.Alunos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fiap.Web.Alunos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
